@@ -2001,7 +2001,7 @@
         
         const app = createApp({
             setup() {
-                const API = 'http://localhost:8080/api';
+                const API = window.VERCEL_API_URL || window.location.protocol + '//' + window.location.hostname + ':8080/api';
                 
                 // Restaurant Info
                 const restaurantName = ref('La Maison');
