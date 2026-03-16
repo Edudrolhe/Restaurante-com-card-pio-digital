@@ -83,16 +83,16 @@ O projeto usa H2 em memória por padrão. Para produção, configure PostgreSQL 
 ## 📸 Screenshots
 
 ### Cardápio Digital
-<img src="/Users/eduardodrolhe/Desktop/img/01.png" alt="Cardápio Digital" width="800">
+<img src="docs/01.png" alt="Cardápio Digital" width="800">
 
 ### Produto Detalhado
-<img src="/Users/eduardodrolhe/Desktop/img/02.png" alt="Produto Detalhado" width="800">
+<img src="docs/02.png" alt="Produto Detalhado" width="800">
 
 ### Carrinho de Compras
-<img src="/Users/eduardodrolhe/Desktop/img/03.png" alt="Carrinho" width="800">
+<img src="docs/03.png" alt="Carrinho" width="800">
 
 ### Painel Admin
-<img src="/Users/eduardodrolhe/Desktop/img/04.png" alt="Painel Admin" width="800">
+<img src="docs/04.png" alt="Painel Admin" width="800">
 
 ## 📄 Licença
 
