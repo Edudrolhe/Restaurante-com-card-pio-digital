@@ -1,8 +1,7 @@
 services:
   - type: web
     name: cardapio-backend
-    env: java
     region: oregon
-    buildCommand: ./mvnw clean package -DskipTests
-    startCommand: java -jar target/cardapio-0.0.1-SNAPSHOT.jar
+    dockerfilePath: Dockerfile
+    dockerCommand: null
     autoDeploy: true
