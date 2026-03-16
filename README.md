@@ -96,7 +96,7 @@ O projeto usa H2 em memória por padrão. Para produção, configure PostgreSQL 
 
 ## 📄 Licença
 
-MIT License - sinta-se livre para usar e modificar!
+@edudrolhe 
 
 ---
 
